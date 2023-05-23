@@ -9,7 +9,7 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
+<img align="right" height="150" src="developer.gif"  />
 
 ###
 
@@ -42,7 +42,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/Shri2131/Shri2131/output/snake.svg" alt="Snake animation" />
-
-###
